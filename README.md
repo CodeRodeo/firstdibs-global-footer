@@ -1,2 +1,3 @@
 # 1stdibs-universal-footer
-WP Footer Plugin that emulates the footer from the main site
+
+Footer navigation for 1stdibs WordPress sites that (sort of) matches the one on 1stdibs.com.
